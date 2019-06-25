@@ -1,0 +1,13 @@
+{
+"companyName": "Unity Technologies",
+"productName": "Unity Environment",
+"dataUrl": "https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b2036d7_webgl-tennis.data/webgl-tennis.data.unityweb",
+"asmCodeUrl": "https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b2036e1_webgl-tennis.asm.code/webgl-tennis.asm.code.unityweb",
+"asmMemoryUrl": "https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b2036e5_webgl-tennis.asm.memory/webgl-tennis.asm.memory.unityweb",
+"asmFrameworkUrl": "https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b2036e4_webgl-tennis.asm.framework/webgl-tennis.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
